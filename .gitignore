@@ -1,0 +1,30 @@
+.DS_Store
+debug.ipynb
+app.log*
+.env
+.gradio
+.vscode
+.idea
+.venv
+.claude
+.continue
+venv/
+__pycache__
+chat_history.db
+chat_history_backup.db
+inputs/
+persona_state.db
+*.mp3
+*.wav
+*.patch
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
